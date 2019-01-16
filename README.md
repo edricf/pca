@@ -1,2 +1,2 @@
 # pca
-implementation of PCA from scratch
+This is an implementation of PCA from scratch
