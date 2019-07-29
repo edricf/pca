@@ -1,2 +1,2 @@
-# pca
-This is an implementation of PCA from scratch
+# sample
+This is an implementation of sample from scratch
